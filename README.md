@@ -1,7 +1,7 @@
 # PACMAN: <a href="https://pacmangamer.netlify.app/" target="_blank">First Game</a>
 <a href="https://pacmangamer.netlify.app/" target="_blank"><img src="https://media.giphy.com/media/4sprlqFRTpiauMCAGI/giphy.gif" /></a>
 
-Exciting game that I refactored from Ania Kubow. The focus on this project was practixing using advanced JS functions.
+Exciting game that I refactored from Ania Kubow. The focus on this project was to practice using advanced JS functions. Use the arrows to move around, but watch out, if a ghost catches you, you LOSE!
 
 ## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
 
